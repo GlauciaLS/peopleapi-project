@@ -26,7 +26,7 @@ http://localhost:8080/api/v1/people
 Também é possível testar a API através do seguinte link:
 
 ```
-https://peopleapi-project.herokuapp.com
+https://peopleapi-project.herokuapp.com/api/v1/people
 ```
 
 São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido:
